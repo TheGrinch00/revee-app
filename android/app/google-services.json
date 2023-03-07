@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "685449083250",
+    "project_id": "revee-cms",
+    "storage_bucket": "revee-cms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685449083250:android:ac541903134e1e587505eb",
+        "android_client_info": {
+          "package_name": "it.jetop.revee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685449083250-akgfjr4eqnpu7390opcbjsd70bnspg0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "83abf5612c58895f1c38da872aa5e32b9d6d56ee"
+          }
+        },
+        {
+          "client_id": "685449083250-b8febf3jjol607omqurbbnjj15cjbfgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "89fd918526bfa00ed60dc2302ecea5e645d8da9a"
+          }
+        },
+        {
+          "client_id": "685449083250-bpr5e5jpag9f9fa5kb6r0eq36ccejku6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "814a7bb0b4fcd2849c12b692b0d398754eb9e630"
+          }
+        },
+        {
+          "client_id": "685449083250-fn0a5locqefvbujrnu59h7q8ddmemc1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "cf7318663eec0fa1ac0914bd69bd85333f903ad4"
+          }
+        },
+        {
+          "client_id": "685449083250-jnnr5kp35jtbcusf27qmsbgfbpr0f880.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "50b71d28d22ed11545af210336c3f5bdc9d0735c"
+          }
+        },
+        {
+          "client_id": "685449083250-oftt0ngdutbnhjn801o3h5u4ejhog1k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "1442f66545dcee9ba96ba10ed053923f631b779d"
+          }
+        },
+        {
+          "client_id": "685449083250-q5kub6ctcje4d2engih34h6om4ncpov4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "cc1e37f0d7e749791c7c54abda4fa4f408d94c7f"
+          }
+        },
+        {
+          "client_id": "685449083250-slhvlstk8c7fgbtbruv65li39m3j0kgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.jetop.revee",
+            "certificate_hash": "91e525777f15cfc1aee2272aa49e5f8411e247fc"
+          }
+        },
+        {
+          "client_id": "685449083250-9rokh7tfsb1lb602tlgkt0m2eu1mrt0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaghKSAoSOcL2_bwrWjASy7BmCaKdlT_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685449083250-9rokh7tfsb1lb602tlgkt0m2eu1mrt0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685449083250-6bm78afiin3ubpeij8nm9et0eplhmiss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.revee.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

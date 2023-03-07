@@ -1,0 +1,6 @@
+package it.jetop.revee
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

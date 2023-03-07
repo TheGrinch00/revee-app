@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>685449083250-dl2j3thpv7cjs7fp04udrqca1mcb0v0k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.685449083250-dl2j3thpv7cjs7fp04udrqca1mcb0v0k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>685449083250-b8febf3jjol607omqurbbnjj15cjbfgr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3CrQPh14z8mMUsygOpbvWjhmZ50g0TQ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>685449083250</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>it.revee</string>
+	<key>PROJECT_ID</key>
+	<string>revee-cms</string>
+	<key>STORAGE_BUCKET</key>
+	<string>revee-cms.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:685449083250:ios:20421edafdbdc65f7505eb</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  errors:
+    todo: info
+    sort_pub_dependencies: ignore
+    directives_ordering: ignore
+    use_setters_to_change_properties: ignore
+    constant_identifier_names: ignore
+    depend_on_referenced_packages: ignore
